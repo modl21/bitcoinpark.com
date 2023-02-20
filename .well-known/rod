@@ -1,0 +1,1 @@
+{"status":"OK","tag":"payRequest","commentAllowed":255,"callback":"https://getalby.com/lnurlp/bitkite/callback","metadata":"[[\"text/identifier\",\"bitkite@getalby.com\"],[\"text/plain\",\"Sats for bitkite\"]]","minSendable":1000,"maxSendable":11000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false}}}
